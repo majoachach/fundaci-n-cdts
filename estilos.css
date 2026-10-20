@@ -1,0 +1,54 @@
+
+body {
+    background-color: #28294f;
+}
+
+.container {
+    background-color: white;
+    padding: 0;
+    max-width: 1000px;
+}
+
+.encabezado {
+    background-color: #101a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.menu {
+    background-color: black;
+}
+
+.menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.menu a:hover {
+    background-color: gray;
+}
+
+h3 {
+    color: #50a5b5;
+    margin: 25px;
+}
+
+h4 {
+    color: #50a5b5;
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
+    margin: 15px;
+}
+
+.pie {
+    background-color: #101a40;
+    color: white;
+    padding: 15px;
+}
